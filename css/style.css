@@ -1,0 +1,60 @@
+.main-logo {
+  width: 100%;
+  max-width: 500px;
+  margin-bottom: -50px;
+}
+#navLogo {
+  display: inline-block;
+  max-width: 40px;
+  float: left;
+  clear: right;
+  border: 5px solid pink;
+  margin: 10px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+/*Navigation*/
+.nav {
+  width: 100%;
+  text-decoration: none;
+  background: purple;
+  font-size: 1em;
+  height: 50px;
+}
+.nav li {
+  display: inline-block;
+  padding: 15px 15px;
+  text-align: center;
+  margin-top: 15px;
+  font-weight: bold;
+  background: green;
+
+}
+.active {
+  color: green;
+  background: yellow;
+  padding: 10px;
+  border-radius: 35%;
+}
+a {
+  text-decoration: none;
+  color: yellow;
+}
+.header{
+  text-align: center;
+  height: 500px;
+  background: grey;
+}
+.head {
+  text-align: center;
+  height: 80px;
+}
+.footer{
+  background: green;
+  text-align: center;
+  font-size: .65em;
+  margin: auto;
+}
